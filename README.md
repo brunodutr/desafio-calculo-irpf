@@ -16,13 +16,13 @@ O resultado deve possuir as seguintes informações:
 O cálculo do imposto de renda mensal é realizado a partir dos seguintes passos:
 
 1. Calcular o valor devido de INSS
-   - Encontrar a Regra de cálculo na Tabela 1 a partir do **Salário**
+   - Encontrar a Regra de cálculo na [Tabela 1](#tabela-1---inss-2019) a partir do **Salário**
    - Multiplicar o Salário pela **Alíquota**, observando o limite máximo de desconto (*impostoINSS*)
    - Subtrair o '*impostoINSS*' do **Salário**
 2. Calcular o valor devido de IRPF
    - Calcular o desconto total de dependentes (*descontoDependentes*)
    - Subtrair o '*descontoDependentes*' do **Salário**
-   - Encontrar a Regra de cálculo na Tabela 2 a partir do **Salário**
+   - Encontrar a Regra de cálculo na [Tabela 2](#tabela-2---irpf-2019) a partir do **Salário**
    - Multiplicar o **Salário** pela **Alíquota** (*impostoIRPF*)
    - Subtrair **Desconto** de '*impostoIRPF*'
    - Subtrair o '*impostoIRPF*' do **Salário**
@@ -67,7 +67,7 @@ O cálculo do imposto de renda mensal é realizado a partir dos seguintes passos
 
 ## Exemplos
 
-### Exemplo 1
+#### Exemplo 1
 
 ```console
 
@@ -83,7 +83,7 @@ Resultado:
   
 ```
 
-### Exemplo 2
+#### Exemplo 2
 
 ```console
 
@@ -99,7 +99,7 @@ Resultado:
   
 ```
 
-### Exemplo 3
+#### Exemplo 3
 
 ```console
 
