@@ -128,9 +128,10 @@ Você será avaliado nos seguintes aspectos, em ordem de prioridade:
 1. Correta execução da especificação funcional;
 2. Legibilidade de código;
 3. Modelagem e OO (Orientação à Objetos);
-4. Testes Unitários;
-5. Uso apropriado do Java, assim como os frameworks e suas melhores práticas;
-6. Completar todas funcionalidades.
+4. Uso apropriado do Java, assim como os frameworks e suas melhores práticas;
+5. Testes Unitários (Opcional);
+
+
 
 É esperado que você desenvolva sem ajuda ou intervenção direta de terceiros, mas encorajamos que você pesquise por soluções e boas práticas sem nenhum tipo de restrição, apenas lembre-se que, caso seja aprovado para a próxima etapa, serão realizadas perguntas na entrevista, a fim de certificar seu conhecimento total sobre a implementação. 
 
